@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SharedPref_SampleTwo_Android_Github</string>
+    <string name="text_likes">likes</string>
+</resources>
