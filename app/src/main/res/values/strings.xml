@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">SharedPref_SampleTwo_Android_Github</string>
     <string name="text_likes">likes</string>
+    <string name="toolbar_text_main">Main Activity</string>
+    <string name="toolbar_text_setting">Setting</string>
+    <string name="text_displaygrid">Display in grid view</string>
+    <string name="key_settings">Pref Display Grid, Settings</string>
 </resources>
